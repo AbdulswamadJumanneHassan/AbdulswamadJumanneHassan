@@ -78,36 +78,7 @@ AI-Powered Digital Tax Compliance Platform designed to simplify taxation for Tan
 
 <div align="center">
 
-<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="numGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#5B8DEF"/>
-      <stop offset="100%" stop-color="#3B6FE0"/>
-    </linearGradient>
-    <linearGradient id="streakGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#C084FC"/>
-      <stop offset="100%" stop-color="#A855F7"/>
-    </linearGradient>
-  </defs>
-
-  <rect x="10" y="10" width="1180" height="280" rx="20" fill="#0D1220" stroke="#2D3348" stroke-width="2"/>
-  <line x1="400" y1="70" x2="400" y2="230" stroke="#2D3348" stroke-width="2"/>
-  <line x1="800" y1="70" x2="800" y2="230" stroke="#2D3348" stroke-width="2"/>
-
-  <text x="200" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="62" font-weight="700" fill="url(#numGrad)" text-anchor="middle">111</text>
-  <text x="200" y="185" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#5B8DEF" text-anchor="middle">Total Contributions</text>
-  <text x="200" y="215" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#2DD4BF" text-anchor="middle">Sep 11, 2024 - Present</text>
-
-  <circle cx="600" cy="140" r="70" fill="none" stroke="#5B8DEF" stroke-width="5"/>
-  <path d="M600 55 c8 10 14 18 14 28 c0 10 -6 16 -14 16 c-8 0 -14 -6 -14 -16 c0 -10 6 -18 14 -28 z" fill="#5B8DEF"/>
-  <text x="600" y="155" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="url(#streakGrad)" text-anchor="middle">2</text>
-  <text x="600" y="235" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#A855F7" text-anchor="middle">Current Streak</text>
-  <text x="600" y="265" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#2DD4BF" text-anchor="middle">Jul 4</text>
-
-  <text x="1000" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="62" font-weight="700" fill="url(#numGrad)" text-anchor="middle">11</text>
-  <text x="1000" y="185" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#5B8DEF" text-anchor="middle">Longest Streak</text>
-  <text x="1000" y="215" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#2DD4BF" text-anchor="middle">Jun 3 - Jun 6</text>
-</svg>
+<img src="https://streak-stats.demolab.com?user=AbdulswamadJumanneHassan&hide_border=true&background=0D1220&border=2D3348&stroke=5B8DEF&ring=5B8DEF&fire=A855F7&currStreakNum=A855F7&sideNums=5B8DEF&currStreakLabel=A855F7&sideLabels=5B8DEF&dates=2DD4BF" />
 
 </div>
 
