@@ -85,7 +85,7 @@ AI-Powered Digital Tax Compliance Platform designed to simplify taxation for Tan
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulswamadJumanneHassan&theme=tokyo-night&hide_border=true" />
+<img src="https://raw.githubusercontent.com/AbdulswamadJumanneHassan/AbdulswamadJumanneHassan/main/assets/contribution-card.svg" />
 
 </div>
 
