@@ -80,11 +80,8 @@ AI-Powered Digital Tax Compliance Platform designed to simplify taxation for Tan
 
 <img src="https://streak-stats.demolab.com?user=AbdulswamadJumanneHassan&theme=tokyonight&hide_border=true" />
 
-</div>
+current streak: 2, longest streak: 11, total contributions: 111
 
-<div align="center">
-
-total contribution : 111, current streak 2, long streak: 11
 </div>
 
 ---
