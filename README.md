@@ -82,14 +82,6 @@ AI-Powered Digital Tax Compliance Platform designed to simplify taxation for Tan
 
 </div>
 
-<div align="center">
-
-### Contribution Summary
-- total contribution : 111
-- current streak : 2
-- long streak : 11
-
-</div>
 
 ---
 
