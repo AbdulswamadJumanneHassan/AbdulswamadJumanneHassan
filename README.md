@@ -79,13 +79,6 @@ AI-Powered Digital Tax Compliance Platform designed to simplify taxation for Tan
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=AbdulswamadJumanneHassan&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🔥%20Current%20Streak-2%20Days-58A6FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🏆%20Longest%20Streak-11%20Days-FFB000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📈%20Total%20Contributions-111-2EA043?style=for-the-badge" />
-
 </div>
 
 # 📈 Contribution Graph
