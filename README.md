@@ -78,7 +78,8 @@ AI-Powered Digital Tax Compliance Platform designed to simplify taxation for Tan
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AbdulswamadJumanneHassan&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=AbdulswamadJumanneHassan&hide_border=true&background=0D1220&border=2D3348&stroke=5B8DEF&ring=5B8DEF&fire=A855F7&currStreakNum=A855F7&sideNums=5B8DEF&currStreakLabel=A855F7&sideLabels=5B8DEF&dates=2DD4BF" />
+
 </div>
 
 # 📈 Contribution Graph
