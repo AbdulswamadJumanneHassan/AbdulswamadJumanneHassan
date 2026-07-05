@@ -82,6 +82,14 @@ AI-Powered Digital Tax Compliance Platform designed to simplify taxation for Tan
 
 </div>
 
+<div align="center">
+
+### Contribution Summary
+- Total Contributions: 111
+- Current Streak: 2 days
+- Longest Streak: 11 days
+
+</div>
 ---
 
 # 📈 Contribution Graph
